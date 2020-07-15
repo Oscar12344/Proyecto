@@ -1,0 +1,10 @@
+D:\CONS.DE SOFT.(5)\ProyectoFinal\ModificarPublicacion\bin\Debug\ModificarPublicacion.exe.config
+D:\CONS.DE SOFT.(5)\ProyectoFinal\ModificarPublicacion\bin\Debug\ModificarPublicacion.exe
+D:\CONS.DE SOFT.(5)\ProyectoFinal\ModificarPublicacion\bin\Debug\ModificarPublicacion.pdb
+D:\CONS.DE SOFT.(5)\ProyectoFinal\ModificarPublicacion\obj\Debug\ModificarPublicacion.csprojAssemblyReference.cache
+D:\CONS.DE SOFT.(5)\ProyectoFinal\ModificarPublicacion\obj\Debug\ModificarPublicacion.Form1.resources
+D:\CONS.DE SOFT.(5)\ProyectoFinal\ModificarPublicacion\obj\Debug\ModificarPublicacion.Properties.Resources.resources
+D:\CONS.DE SOFT.(5)\ProyectoFinal\ModificarPublicacion\obj\Debug\ModificarPublicacion.csproj.GenerateResource.cache
+D:\CONS.DE SOFT.(5)\ProyectoFinal\ModificarPublicacion\obj\Debug\ModificarPublicacion.csproj.CoreCompileInputs.cache
+D:\CONS.DE SOFT.(5)\ProyectoFinal\ModificarPublicacion\obj\Debug\ModificarPublicacion.exe
+D:\CONS.DE SOFT.(5)\ProyectoFinal\ModificarPublicacion\obj\Debug\ModificarPublicacion.pdb
